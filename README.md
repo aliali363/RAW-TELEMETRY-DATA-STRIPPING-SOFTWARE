@@ -7,6 +7,9 @@ The GUI includes buttons for uploading tab file (telemetry data) and binary file
 This “Telemetry Raw Data Stripping Software using python” aims to empower users with a versatile tool for preprocessing raw data, streamlining the data preparation phase, and facilitating more efficient downstream analysis and decision-making processes.
 Overall, this GUI application streamlines the process of files and processing, providing a user-friendly interface for handling input files effectively.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/63c9b972-4314-4abf-8e52-e49274e9d6d5" alt="output">
+</div>
 
 # Libraries Used:
 The Python program leverages the following libraries to facilitate data handling, file manipulation, and error checking:
