@@ -4,8 +4,10 @@
 Welcome to the **Telemetry Raw Data Stripping Software** project! This application is designed to revolutionize ISRO's telemetry data processing capabilities by automating the creation of output files. Our goal is to ensure data accuracy, operational efficiency, and consistency, which are crucial for the success of ISRO's missions.
 
 <div align="center">
-  ![giphy (1)](https://github.com/user-attachments/assets/cc6bcd0d-de89-4e7e-a9ba-26aabf762d5a)
+  <img src="https://github.com/user-attachments/assets/1077b9f9-ead1-443c-91c6-31fe56e22d97" alt="Description of image">
 </div>
+
+
 
 
 ## Key Features
@@ -38,6 +40,11 @@ The software utilizes several Python libraries to enhance functionality:
 - **OS**: For file system operations.
 - **sys**: For interacting with the Python interpreter.
 
+## Output :
+
+![output ](https://github.com/user-attachments/assets/a73a719a-be36-48a2-a4f4-9f47c24e28cf)
+
+
 ## Installation
 
 To get started, clone the repository and install the required libraries:
@@ -45,4 +52,6 @@ To get started, clone the repository and install the required libraries:
 ```bash
 git clone https://github.com/your-repo/telemetry-data-stripping-software.git
 cd telemetry-data-stripping-software
-pip install -r requirements.txt
+pip install -r requirements.txt 
+
+
